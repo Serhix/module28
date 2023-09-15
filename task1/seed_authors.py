@@ -3,7 +3,7 @@ import json
 
 from models import Author
 
-file_name = './task1/src/authors.json'
+file_name = './src/authors.json'
 
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@ import json
 
 from models import Author, Quote
 
-file_name = './task1/src/qoutes.json'
+file_name = './src/qoutes.json'
 
 
 if __name__ == "__main__":
